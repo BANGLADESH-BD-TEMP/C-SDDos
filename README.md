@@ -35,4 +35,4 @@ $ <code>python C-SDdos.py [-i] [-p] [-l]    </code>
 <code> python C-SDdos.py -i 92.204.214.136 -p 80 -l  2 </code>
 
 
-To contact TG:t.me/Not_found_404_not_responding
+Hope you like this tool.
