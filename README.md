@@ -1,9 +1,9 @@
 # Cyber-Sorcerer DDos
 
-[YouTube Channel Subscribers](https://youtu.be/JE_srze4gMQ)
+[Telegram Channel](https://t.me/teamblackfalcon)
 
 ## .
-[Telegram](https://t.me/kali_linux_ar)
+[Telegram](t.me/Not_found_404_not_respondingl)
 
 
 DDOS strong tool to stop servers and sites
