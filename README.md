@@ -3,7 +3,7 @@
 [Telegram Channel](https://t.me/teamblackfalcon)
 
 ## .
-[Telegram](https://t.me/Not_found_404_not_respondingl)
+[My Telegram Account](https://t.me/Not_found_404_not_responding)
 
 
 DDOS strong tool to stop servers and sites
