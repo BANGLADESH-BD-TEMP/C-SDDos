@@ -285,8 +285,8 @@ def usage3():
     MARKDOWN="""
     Programmer : Cyber-Sorcerer
     Made in : Bangladesh
-    Telegram : t.me/Not_found_404_not_respondingl
-    github : https:https://github.com/Teamblackfalcon
+    Telegram : t.me/Not_found_404_not_responding
+    github : https://github.com/cybersorcererbd
     Tool Information : It has been made destroy Israel .
     This tool owner CYBER SORCERER. 
 """
