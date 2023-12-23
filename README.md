@@ -16,7 +16,7 @@ DDOS strong tool to stop servers and sites
 - 2 . <code> git clone https://github.com/Teamblackfalcon/C-SDDos.git  </code>
 - 3 . <code> cd C-SDDos </code>
 - 4 . <code> pip install -r installing.txt </code>
-- 5 . <code> python3 C-SDdos.py -h  </code>
+- 5 . <code> python C-SDdos.py -h  </code>
 
 
 
