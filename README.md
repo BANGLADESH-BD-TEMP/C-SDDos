@@ -1,6 +1,6 @@
 # Cyber-Sorcerer DDos
 
-[Telegram Channel](https://t.me/teamblackfalcon)
+[Telegram Channel](https://t.me/prezom_virus)
 
 ## 
 [My Telegram Account](https://t.me/Not_found_404_not_responding)
@@ -13,7 +13,7 @@ A powerful DDos tool to make down Israeli websites. This tool Owner CYBER SORCER
 ## installing
 
 - 1 . <code> pkg install python </code>
-- 2 . <code> git clone https://github.com/Teamblackfalcon/C-SDDos.git  </code>
+- 2 . <code> git clone https://github.com/cybersorcererbd/C-SDDos.git </code>
 - 3 . <code> cd C-SDDos </code>
 - 4 . <code> pip install -r installing.txt </code>
 - 5 . <code> python C-SDdos.py -h  </code>
