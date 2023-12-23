@@ -31,7 +31,7 @@ $ <code>python C-SDdos.py [-i] [-p] [-l]    </code>
 │         -l : Atatck Level              
 │         -f : Fake IP                            
 │         -d : Hide Logs                       
-                     :CODE  
+                     :usage 
 <code> python C-SDdos.py -i 92.204.214.136 -p 80 -l  2 </code>
 
 
