@@ -6,7 +6,7 @@
 [My Telegram Account](https://t.me/Not_found_404_not_responding)
 
 
-DDOS strong tool to stop servers and sites
+A powerful DDos tool to make down Israeli websites. This tool Owner CYBER SORCERER 
 
 
 
