@@ -1,6 +1,6 @@
 # Cyber-Sorcerer DDos
 
-[Telegram Channel](https://t.me/prezom_virus)
+[Telegram Channel](https://t.me/teamblackfalcon)
 
 ## 
 [My Telegram Account](https://t.me/Not_found_404_not_responding)
